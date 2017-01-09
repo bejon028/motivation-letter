@@ -1,0 +1,94 @@
+Computer and system engineering
+
+Introduction to Entrepreneurship
+
+The student knows the basic concepts and business processes. 
+Has an overview of the history and development of business trends, corporate culture and business in different countries in different forms. 
+Feels undertaking the necessary personal qualities and is able to assess the suitability of an entrepreneur. 
+Can think creatively and enterprising, feels the generation of business ideas, development, and evaluation methods. 
+Is able to analyze the environmental impact of the company's business activities, recognizes entrepreneurial economic policy and business support systems. Acquire teamwork experience in developing business ideas and resources, assessing the needs and challenges capex.
+
+Entrepreneurship and Business Planning
+Completion of the course the student 
+familiar with the nature of the business, the types of innovation and the business planning process; as well as the role of business and economic activities of the most important aspects of the state of law and the business environment of influence; 
+Is able to assess market trends and business opportunities and analyze their impact on the business environment; 
+Ability to apply creativity in designing the business model and market study synthesizes the information received from the business plan and financial planning, 
+Has experience in the business concept of teamwork in the development and implementation of possibility; 
+Can justify and present your ideas; 
+Will be able to draw up a project or a business plan, the company set up and implement a business idea; 
+Has knowledge in various fields (IT, mechanics, energy, etc.), business activity specifics. 
+
+Giving Presentations in English
+IBX0030	Innovation and Creative Problem Solving
+TMJ1230	Technology Enterprise Creation and Financing
+TMJ1240	Student's Enterprise Practice
+IAF0320	Computer Systems Engineering
+
+-Provide an overview of computers based on the establishment of systems and principles in the field of history. 
+- Describe the life cycle of the systems. 
+- To introduce the requirements analysis and its various aspects. 
+- Provide an overview of the specifications of various types of specifications for the use of systems for the creation of different steps. 
+- Describe the architecture of the selection process and its effects. 
+- Identifying the various test procedures, systems maintenance and management. 
+- To introduce the fundamentals of project management, version control, and quality assurance. 
+- Provide an overview of complex systems, which consist of both hardware and software components in the development of the different stages.
+
+ISC0010	Microprocessor Systems
+
+The computer and microcontroller architecture and their difference. Series of microcontrollers (AVR, Intel, PIC). ARM processor. Programming environment. Microcontroller architecture 
+uses. Microcontroller hardware and electrical parameters, their linking sensors and actuators. Microcontroller programming characteristics. In instructions (arithmetic, logic, data transmission, commands). Interrupts. The sub-programs, macros. Assemblerikeele use of its characteristics. Examples of the tasks of microcontrollers. Controller programming in assembler and Cs.
+
+IAF0530	Dependability and Fault Tolerance
+Passed the subject, the student: 
+· knows the reliability of the basic terminology and basic techniques; 
+· Be able to analyze the systems, based on the reliability aspect; 
+· Be able to evaluate the impact of technological development veakindlusele systems; 
+· Has knowledge of complex systems veakindlusest and testing; 
+· Is able to offer a variety of alternatives to improve the reliability of the system as a whole.
+IAG0420	Foundations and Management of Cyber Security
+Upon completion of the course, the student: 
+* Overview of cybersecurity basic concepts and technologies 
+* knowledge of cyber security standards
+IEM3040	Data Acquisition Means and Methods
+
+ISP0051	Applied Data Communication
+	Passed the subject, the student must be able to: 
+• Understand the basic terms of industrial data, characteristics and development trends; 
+• orientate common data standards and protocols, operating principles; 
+• apply the selection criteria for the ideal communication solution particular for industrial applications; 
+• select ways to improve the system for any data attribute (eg. The efficiency, security alarm, tõrkekindlust, safety) and to understand how to make the selected data system affects other properties.
+IAF0610	Design for Test
+IAY0600	Digital Systems Design
+IAY0720	Practical Training
+IAF0620	Verification of Digital Systems
+IAY0340	Digital Systems Modeling and Synthesis
+IAY0550	Systems-on-Chip Design
+IBX0060	Robotics
+IAG0010	Advanced Course in Programming I
+ISP0012	Timing Analysis of Software Dynamic Properties
+IAG0060	Software Project Management
+IAG0410	Basics of Computer Aided-Design
+IAG0450	Analysis of Programming Languages
+IDU0220	Databases I
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+“Because I liked the approach this university takes to my course” – even within the same subject, every university takes a slightly different approach to the way it’s taught and structured. The university question is another good opportunity to show that you’ve really thought about the course and gone to the effort of finding a university whose approach to the subject you agree with. You can even name specific modules that set this university’s course apart from the others offering the same subject.
+
+
+
+
+question one: highlight why you would like to attend the chosen programme?
+answer: I would like to attend Computer and Systems Engineering programme at Tallinn University of Technology because I liked the approach the university has taken to teach the courses and the structure of the curriculum with diverse topics. Courses like Introduction to Entrepreneurship(TMJ0110) and Entrepreneurship and Business Planning(TMJ1030) will enlighten me with the basic concepts and business processes as well as give me the ability to able to assess market trends and business opportunities and analyze their impact on the business environment.Giving Presentations in English(HLI3001) course will increase my presentation skill which I found very helpful for my future. Courses like Computer Systems Engineering(IAF0320), Microprocessor Systems(ISC0010), Dependability and Fault Tolerance(IAF0530), Design for Test(IAF0610), Digital Systems Design(IAY0600), Systems-on-Chip Design(IAY0550), Advanced Course in Programming I(IAG0010), Databases I(IDU0220) will increase my in-depth knowledge in the field of Computer Science and complex systems. Moreover Software Project Management(IAG0060) will increase my managerial skill in the field of software development. So I found the programme the complete package.

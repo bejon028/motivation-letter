@@ -1,0 +1,71 @@
+RESEARCH INTEREST
+Human/Computer Interaction
+Distributed Systems
+Data Mining
+Security
+Computer Architecture
+Software Engineering
+WORK EXPERIENCE
+Develop Authentication Server for KONA Local EMV
+Work on NFC/barcode/QR code type payment system "KONA MONEY" team
+Develop and maintain "Fraud Management" module of "Transaction Management System"
+Develop and maintain both UI and back end of "KONA Operation Desk"
+Academic Thesis and Research: Research and develop Simulator for Dhaka Traffic
+	My research was focused on identifying the heterogeneous traffic behavior of Dhaka city and develop simulator which
+	simulates traffic based on given road map, rules and behavior of traffic. The primary goal of the simulator is to find the
+	best combination of traffic rules, roads condition, vehicle’s behavior to improve the present unpleasant condition of Dhaka traffic.
+Academic Major Projects:
+	Online Exam System
+	Environment: C#, MySQL
+	Online Hotel Reservation System
+	Environment: PHP, CodeIgniter, Oracle
+TOEFL: 94 (Reading 21, Listening 27, Speaking 23, Writing 23). Date – 16th Oct, 2016
+JOB RELATED SKILLS
+• Programming language: JAVA, C, C++, C#,
+• Frame Works: codeIgniter, Spring, AngularJs
+• Scripting language: HTML, CSS, JavaScript, PHP
+• IDE: Eclipse, NetBeans, Visual Studio, IntelliJ IDEA
+• Database: Oracle, MySQL
+• Build Tool: Gradle, Maven
+• ORM Tool: Hibernate
+• Version Control: Git
+• Smart Card: EMV, ISO 8583, Transaction Management System
+• Issue Tracking Tools: JIRA, Redmine
+• Others : familiar with NS2(Network Simulator 2) & QGis.
+
+
+
+
+
+
+
+Climbed upto base camp of kang Yatse 2 (6200m), ladakh, 2016
+
+
+Introduction to Computer System
+Discrete Mathematics
+Structured Programming Language(C)
+Object Oriented Programming Language(C++, JAVA)
+Data Structures
+Digital Logic Design
+Algorithms
+Digital Electronics and Pulse Techniques
+Theory of Computation
+Assembly Language Programming
+Database
+Computer Architecture
+Software Engineering and Information System Design
+Compiler
+Data Communication
+Mathematical Analysis for Computer Science
+Operating System
+Microprocessors and Microcontrollers
+Numerical Methods
+Computer Networks
+Software Development
+Artificial Intelligence
+Digital System Design
+Simulation and Modeling
+Computer Graphics
+Algorithm Engineering
+Computational Geometry

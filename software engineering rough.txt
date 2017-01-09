@@ -1,0 +1,29 @@
+Structure
+#introduction
+#Why are you interested in this Software Engineering Master's programme?
+#Which of the two specializations of this Master's programme (enterprise software or embedded software) 
+would you like to choose and why?
+#What technical and non-technical skills do you have that prepare you well for the Software Engineering Master's programme? 
+When describing your technical skills, please indicate what programming languages and development tools you are most familiar with,
+and how you assess your level of mastery of these programming languages and development tools? 
+When describing your non-technical skills, explain why you think these skills are important for successfully working
+in the software industry.
+#What is/are the most complex software engineering task(s) or project(s) that you have completed? 
+If the output of these task(s)/project(s) are open-source or can be made open-source, please provide the link(s) to 
+the public code repository.
+#Have you participated in programming challenges or contests, informatics Olympiads, hackathons or code camps, 
+or have you completed open online courses or extra-curricular courses in software engineering or related fields? 
+If so, please describe your record of participation in such extra-curricular activities
+
+Now Start
+
+Now-a-days imagining a world without the computer is really hard. My journey in this area of computing started with Introduction to Computer System and Structured Programming Language courses where I wrote first "hello world" code in C. 
+It was my first taste of success in practical programming but aspiration of going for higher degrees and building a 
+career in the same area built in my mind from very young age.
+
+When I was at the age of 11, my elder brother brought a computer into home. So from very young age I had a chance to get myself acquainted with computer. It's very obvious that a 11 years old boy will use computer only for playing video games. And there was no difference for me too but when I sat in front of computer, one question raised in my mind each and every time that is how the whole system works? How I control elements on monitor by pressing keyboard or clicking mouse? One day I asked the question to my elder brother who was studying Civil Engineering at that time. My brother answered "You have to study computer science to understand all this". From that moment I made my mind that I will study computer science.
+
+After completion of my higher secondary school, I enrolled for Bachelor of Science(B.Sc.) program in Computer Science and Engineering from Bangladesh University of Engineering and Technology(BUET),most reputed university in Bangladesh, where I developed more interest towards computer science and graduated with 75% marks. During B.Sc, I studied almost all basic computer science courses which helped me to build a strong foundation to go for higher studies and choose a career in software engineering. Specialized areas in Programming Languages, Data Structures, Digital Logic Design, Algorithms,  Software engineering, Computer Networks, Computer Architecture, Operating System and Database have been my strengths.
+
+
+

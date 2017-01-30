@@ -1,2 +1,9 @@
 Since my undergraduate study I was always interested in Enterprise solutions and my short career is full of developing enterprise systems specially large scalable systems. I aspire to expand my knowledge and understanding of large scalable systems by studying Distributed computing as distribution of workload among cluster of machines is a must to design a large scalable Enterprise system. Moreover I want to research and write my thesis in the same field. 
 
+
+
+
+
+
+https://msdn.microsoft.com/en-us/library/cc949110.aspx
+

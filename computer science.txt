@@ -1,3 +1,17 @@
+1. Why are you interested in this Master's programme?
+2. Which of the five specializations of the Master's programme would you like to choose? Explain your choice! You can choose one of the five:
+2.1. High-Performance Computing;
+2.2. Programming Languages;
+2.3. Natural Language Processing;
+2.4. Cryptography and Theoretical Informatics;
+2.5. Data Mining.
+3. What programming languages and tools are you most familiar with, and how do you assess your level of mastery in these programming languages and tools?
+4. What is/are the most complex programming, engineering or scientific task(s) or project(s) that you have completed? If the output of these task(s)/project(s) is available as open-source software (or it can be made open-source), please provide the link(s) to the public code repository.
+5. How do you assess your skills and capability in the fields of algorithms and mathematics in general? In addition - especially considered for specialization 2.4: would you be interested in and do you have experience in analysing the efficiency and correctness of different algorithms, constructing new algorithms, implementing non-trivial algorithms?
+6. In which field would you like to write your Master's thesis? Explain your choice!
+7. How do you plan to implement the skills to be gained from the programme in your future career?
+
+
 Dear Sir/Madam, thrive
 
 I am writing to apply for the Master's Programme in Computer Science. I believe this degree from your esteemed institution would help me deepen my knowledge and help me to achieve my career goals.

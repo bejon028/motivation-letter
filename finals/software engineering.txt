@@ -1,0 +1,36 @@
+#Why are you interested in this Software Engineering Master's programme?
+#Which of the two specializations of this Master's programme (enterprise software or embedded software) 
+would you like to choose and why?
+#What technical and non-technical skills do you have that prepare you well for the Software Engineering Master's programme? 
+When describing your technical skills, please indicate what programming languages and development tools you are most familiar with, and how you assess your level of mastery of these programming languages and development tools? When describing your non-technical skills, explain why you think these skills are important for successfully working in the software industry.
+#What is/are the most complex software engineering task(s) or project(s) that you have completed? 
+If the output of these task(s)/project(s) are open-source or can be made open-source, please provide the link(s) to 
+the public code repository.
+#Have you participated in programming challenges or contests, informatics Olympiads, hackathons or code camps, 
+or have you completed open online courses or extra-curricular courses in software engineering or related fields? 
+If so, please describe your record of participation in such extra-curricular activities
+
+Dear Sir/Madam,
+
+With this letter, I would like to express my interest in studying master's in Software Engineering at the University of Tartu.
+
+My journey in this area of computing started with the courses "Introduction to Computer System" and "Structured Programming Language" where I wrote my first "hello world" code in C. It was my first taste of success in practical programming. However, an aspiration for higher study and successful career has persisted in my mind from a very young age. When I was eleven, my elder brother brought a computer into home. So from very young age I had a chance to get myself acquainted with computer. As an eleven year old boy, I was fascinated with computers because of video games. But one question popped up in my mind over and over: How could I control elements on the monitor by pressing the keyboard or clicking the mouse? My elder brother was studying Civil Engineering at that time. When I asked him this question, he answered, "You have to study computer science to understand this". This simple statement amplified my fascination for computers into a passion that exists to this day.
+
+After completing my higher secondary education, I enrolled myself in the B.Sc programme for Computer Science and Engineering at Bangladesh University of Engineering and Technology(BUET). I developed a keener interest in Computer Science there and graduated with 75% marks. During my B.Sc. studies, I studied  elementary Computer Science courses which, I believe, have helped me to build a strong foundation for higher studies and a career in Software Engineering. I had become familiar with programming languages C, C++, JAVA, assembly, scripting languages like HTML, PHP, shell, and databases like Oracle and MySQL before my senior year.
+
+During my final year of study, I, along with one of my friends, conducted a research project identifying the heterogeneous traffic behaviour of Dhaka city and developed a simulator which simulates traffic based on a given road map and vehicular behaviour. The goal of our research was to improve the present unpleasant condition of Dhaka traffic by finding the best combination of rule compliance, vehicular behaviour, and road condition. We used JAVA (with NetBeans IDE), QGis for processing Open Street Map and shape files, and SQlite. We developed a Map Parser as well to improve performance. I have provided the Github link of our simulator.
+
+Upon graduating from BUET in March 2016, I joined KONA Software Lab Limited because of my passion for enterprise systems. "Kona Money", an NFC/QR code/barcode based payment system, was my first professional project. I got a chance to master my skills in JAVA, Spring, Hibernate, Application Server, IntelliJ IDEA IDE, Gradle, oracle database, and GIT by working in this project. While working in "Kona Money”, my team leader found that I was eager to apply cutting-edge technology and optimal algorithms that could improve performance. So he gave me a challenging task: design and develop Auth Server for the "Kona Local EMV" project. Upon successful authentication, Auth Server provides token that is used to grant access to resource servers. JAVA with Spring boot, Oauth2, jwt(JSON Web Token), zuul proxy, and oracle database are used to develop the system. Currently I am working in the "KOD" project where we use AngularJS, JAVA(Spring), Oracle database are being used. All these experiences have fostered my attraction towards Software engineering.
+
+I want to be an entrepreneur after gathering a few more years of industry experience. I have found this programme best suit for my career needs as it contains diverse courses to provide perfect balance between theory and practice. The programme contains courses like Secure Programming Techniques, Advanced Programming and Agile Software Development with which I want to hone my development skills. Moreover, I will have a chance to brush up my professional practice by undertaking an entrepreneurial project and researching a practical software engineering problem which I found pertinent to my future plans. In my opinion, this entrepreneurial project will take me one step forward to be an entrepreneur.
+
+From my undergraduate days, I have always been interested in enterprise software and my short career is full of developing enterprise solutions. I want to learn more about enterprise systems and business analyses to be an international expert in these. So, I would like to study Enterprise Software module. I believe, this module will mature my knowledge in service-oriented architectures, enterprise System Integration as well as business management.
+
+Apart from my academic coursework and research activities in BUET, I was captain of my faculty cricket team and a volunteer of the blood donation organization "Badhan". Moreover, I like adventurous travelling like trekking. I also participated few programming and robotics contests. My team won the 4th prize in Inter University Coding Contest, 2014. All this activities had helped me to develop my managerial skills, to become a team player, and over-all to be an hardworking and self-motivated person. I found this activities highly beneficial for successfully working in software industry because collaboration between team members and being focused on same goal is very important to deliver a sound product.
+
+Lastly, I am confident that with my motivation and the experience I have gained from academic study and professional career, I can be a good candidate for your Master's Program with scholarship. I will try my best to contribute strongly to the excellence and diversity of your programme, as well as the international community of the University.
+
+Thank you for your consideration. I am looking forward to your reply.
+
+Yours sincerely,
+Bejon Sarker

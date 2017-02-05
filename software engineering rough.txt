@@ -1,5 +1,4 @@
-Structure
-#introduction
+
 #Why are you interested in this Software Engineering Master's programme?
 #Which of the two specializations of this Master's programme (enterprise software or embedded software) 
 would you like to choose and why?
